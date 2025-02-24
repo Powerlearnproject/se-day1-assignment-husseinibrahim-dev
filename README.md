@@ -95,7 +95,7 @@ Testing is continuous and done after each iteration.
 Best suited for: Dynamic projects requiring frequent updates, such as mobile applications and SaaS products.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+E) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer:
 
@@ -134,7 +134,7 @@ Tracks and communicates project milestones.
 Delivers the completed software and monitors its performance.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+F) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environment (IDE): A software platform that facilitates the creation of applications by providing tools for writing, compiling, and debugging code.
 
