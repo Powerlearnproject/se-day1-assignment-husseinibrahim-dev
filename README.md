@@ -40,7 +40,40 @@ Collaboration: Enhances teamwork among developers, designers, and testers.
 
 Software engineering is foundational to modern technology, ensuring software solutions meet user and business needs while driving progress and innovation.
 
-B) List and briefly explain the phases of the Software Development Life Cycle (SDLC).
+B) Identify and describe at least three key milestones in the evolution of software engineering.  
+
+The evolution of software engineering has been shaped by key milestones that addressed growing complexity, process efficiency, and hardware capabilities.
+
+1. Mastering Complexity (1960s-1970s)
+
+Early software development lacked structure, leading to unmanageable and error-prone code ("spaghetti code").
+
+The introduction of structured programming improved readability, maintainability, and reliability by organizing code into modular blocks using loops, conditionals, and subroutines.
+
+This shift laid the foundation for modern programming paradigms like object-oriented programming.
+
+
+
+2. Mastering Process (1980s-1990s)
+
+As software projects grew, structured methodologies like Waterfall and Iterative development emerged to manage complexity.
+
+The introduction of Object-Oriented Programming (OOP) enabled better code organization through encapsulation, inheritance, and polymorphism.
+
+Formalized software development life cycles (SDLC) improved predictability and quality.
+
+
+
+3. Mastering Machine (2000s-Present)
+
+Advances in Agile methodologies allowed for iterative development, rapid feedback, and adaptability.
+
+The rise of cloud computing, DevOps, and AI-driven development enhanced scalability, automation, and deployment efficiency.
+
+Software engineering became more machine-driven, with automation tools for testing, deployment, and monitoring.
+
+
+C) List and briefly explain the phases of the Software Development Life Cycle (SDLC).
 
 The Software Development Life Cycle (SDLC) is a structured process that outlines the stages involved in the development of software. Here are the main phases of the SDLC:
 
